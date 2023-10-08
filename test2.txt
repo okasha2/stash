@@ -1,0 +1,17 @@
+This is mohamed okasha and i testing the stash 
+
+I learn  some stash elment like:
+
+1-Git stash list 
+
+2-Git stash save ""
+
+3-Git stash pop
+
+4-Git stash apply
+
+5-Git stash drop
+
+6-Git stash show
+
+7-Git stash clear
